@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          First Deploy WebSite!
+          First Deploy WebSite
         </a>
       </header>
     </div>
